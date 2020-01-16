@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
 	printf("Hello world\n");
-	printf("...and Jupiter\n");
+	printf("...and Mars\n");
 
 
 	if(1<0){
